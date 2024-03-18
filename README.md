@@ -1,7 +1,7 @@
 <!-- Intro -->
 <h3 align="center">
   <samp>&gt; Hey there, I am
-    <b><a target="_blank" href="www.linkedin.com/in/pranav-yadav-b69192298">Pranav Yadav</a></b>
+    <b><a target="_blank" href="https://www.linkedin.com/in/pranav-yadav-b69192298">Pranav Yadav</a></b>
   </samp>
 </h3>
 
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/pranav-yadav-b69192298" target="_blank">
+ <a target="_blank" href="https://www.linkedin.com/in/pranav-yadav-b69192298">Pranav Yadav</a>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
 </p>
