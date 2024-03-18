@@ -49,11 +49,8 @@
   <img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Draw_SQL-000000?style=for-the-badge&logo=sql&logoColor=white" alt="Draw SQL" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Data_Structures-006400?style=for-the-badge" alt="Data Structures" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/WebSocket-4E4E4E?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSocket" />&nbsp;&nbsp;
 </p>
