@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
- <a target="_blank" href="https://www.linkedin.com/in/pranav-yadav-b69192298">Pranav Yadav</a>
+ <a target="_blank" href="https://www.linkedin.com/in/pranav-yadav-b69192298">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
 </p>
